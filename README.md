@@ -14,10 +14,7 @@ pip install scrapy
     
 ## Export Data
 ### csv
-    ```
     scrapy runspider scraper.py -o dosen.csv
-    ```
+    
 ### json
-    ```
     scrapy runspider scraper.py -o dosen.json
-    ```
