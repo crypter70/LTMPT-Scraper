@@ -7,6 +7,8 @@ https://scrapy.org/
 ## Installation
 ```
 pip install scrapy
+or 
+pip3 install scrapy
 ```
 
 ## Run Program
