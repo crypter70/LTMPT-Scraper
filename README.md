@@ -8,7 +8,6 @@ URL: https://top-1000-sekolah.ltmpt.ac.id
 Website:
 <img width="1552" alt="image" src="https://user-images.githubusercontent.com/74947224/211158299-7400a156-57a0-45c8-a5f9-6c608bb3c0d6.png">
 
-
 ## Official Docs
 Scrapy Documentation
 https://scrapy.org/

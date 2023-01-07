@@ -1,6 +1,7 @@
 import scrapy
 
 class LTMPTScraper(scrapy.Spider):
+
     name="ltmpt-scraper"
 
     def start_requests(self):
@@ -22,8 +23,10 @@ class LTMPTScraper(scrapy.Spider):
                 'jenis_sekolah' : data.css('td:nth-child(8)::text').get()
             }
 
+        # get the href of next button
         next_button = response.css('li.next a::attr(href)').get()
 
+        # if the href of next button is exist, then follow that url
         if next_button is not None:
             yield response.follow(next_button, callback=self.parse)
 
