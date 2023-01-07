@@ -6,7 +6,7 @@ A web scraper program to retrieve data on the top 1000 schools based on UTBK sco
 URL: https://top-1000-sekolah.ltmpt.ac.id
 
 Website:
-<img width="1552" alt="image" src="https://user-images.githubusercontent.com/74947224/211157991-19095918-a2fc-4f74-b0ff-e98b5e756002.png">
+<img width="1552" alt="image" src="https://user-images.githubusercontent.com/74947224/211158299-7400a156-57a0-45c8-a5f9-6c608bb3c0d6.png">
 
 
 ## Official Docs
