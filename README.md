@@ -1,9 +1,7 @@
 # LTMPT-Scraper
 
 ## Overview
-A web scraper program to retrieve data on the top 1000 schools based on UTBK scores in 2022 using Scrapy.
-The website to be scraped is a static website, data is not loaded using javascript. 
-Therefore, Scrapy is a suitable choice because it has speed and efficiency for static data on websites.
+The program aimed to extract data on the top 1000 schools based on UTBK scores in 2022 using Scrapy. The targeted website was a static one, and the data was not loaded using JavaScript. Therefore, Scrapy was an appropriate choice due to its efficiency and speed in handling static data on websites. The program extracted relevant data such as the schools' names, locations, UTBK scores, and other relevant information. The extracted data was useful for analyzing and evaluating the schools' academic performance and ranking. The data was saved in CSV format for further processing and analysis.
 
 URL: https://top-1000-sekolah.ltmpt.ac.id
 
